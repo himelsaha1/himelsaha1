@@ -31,11 +31,11 @@ React • Flask • Node.js • TensorFlow • PyTorch • TailwindCSS • Postg
 
 ## 📌 Featured Projects
 
-### AI Traffic Collision Detection
+### AI Traffic Collision Detection (Oculon)
 
 Built an AI-powered traffic monitoring system using YOLOv8, OpenCV, Flask, and AWS services to detect accidents and trigger emergency alerts in real time.
 
-### AI Emotion-Based Music Recommender
+### AI Emotion-Based Music Recommender (Moodify)
 
 Developed a recommendation system that analyzes facial emotions using DeepFace and TensorFlow to generate personalized Spotify playlists.
 
