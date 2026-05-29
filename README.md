@@ -5,7 +5,7 @@ Honors Computer Engineering student at Texas A&M University passionate about bui
 
 I enjoy combining software engineering, product thinking, and artificial intelligence to create technology that impacts the world in meaningful ways!
 
-## Past Experiences:
+## 🧑‍💻 Past Experiences
 
 * Software Developer Intern at IBM (Summer 2026)
 * Artifical Intelligence Intern at Quality Institute of America (Summer 2025)
